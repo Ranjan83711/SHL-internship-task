@@ -27,6 +27,9 @@ The system uses **embedding-based similarity search** instead of rule-based filt
 
 ---
 
+🔗 **Live Demo:** https://shl-internship-task-qo8cearcp2tq2dnxquqvsl.streamlit.app/
+
+
 ## 1️⃣ Project Overview
 
 Hiring teams often struggle to decide **which assessments best match a role**.
