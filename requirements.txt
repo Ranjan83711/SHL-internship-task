@@ -1,6 +1,7 @@
+streamlit
 pandas
 numpy
 sentence-transformers
 faiss-cpu
-langchain
-streamlit
+langchain-text-splitters
+scikit-learn
