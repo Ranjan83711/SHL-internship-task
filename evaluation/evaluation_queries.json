@@ -1,0 +1,17 @@
+[
+  {
+    "query": "Data analyst with strong numerical and analytical skills",
+    "relevant_assessments": [
+      "numerical",
+      "data",
+      "analysis"
+    ]
+  },
+  {
+    "query": "Python developer with problem solving skills",
+    "relevant_assessments": [
+      "python",
+      "programming"
+    ]
+  }
+]
