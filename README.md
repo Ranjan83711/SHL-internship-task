@@ -1,13 +1,3 @@
-Got it 👍
-I’ll **keep everything exactly the same** and **only ADD**:
-
-1. **API backend (`api.py`) section**
-2. **Evaluation section + files**
-3. **FastAPI & Uvicorn** in the right places
-4. Minor table-of-contents updates (no rewriting, no tone change)
-
-Below is your **UPDATED README** with **only additions**, written in the **same voice and style**.
-
 ---
 
 # 🧠 SHL Assessment Recommendation Engine
